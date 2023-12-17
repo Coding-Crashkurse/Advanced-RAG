@@ -1,0 +1,27 @@
+Fiktives Restaurant: Gourmet's Delight
+Q1: What is the name of the restaurant?
+A1: The restaurant is named "Gourmet's Delight".
+
+Q2: Where is Gourmet's Delight located?
+A2: It is located in the heart of downtown, on Maple Street.
+
+Q3: What type of cuisine does Gourmet's Delight offer?
+A3: Gourmet's Delight specializes in a fusion of Mediterranean and Asian cuisine.
+
+Q4: Is the restaurant vegetarian-friendly?
+A4: Yes, there is a wide range of vegetarian and vegan options available.
+
+Q5: Does Gourmet's Delight accept reservations?
+A5: Yes, guests are encouraged to make reservations, especially on weekends.
+
+Q6: Are there any special dishes that are recommended at Gourmet's Delight?
+A6: The signature dish is the 'Medit-Asian Fusion Platter' which includes a variety of specialties.
+
+Q7: What are the operating hours of the restaurant?
+A7: The restaurant is open from 11:00 AM to 10:00 PM, Monday through Sunday.
+
+Q8: Does Gourmet's Delight offer any special promotions?
+A8: Yes, there are happy hour discounts from 4:00 PM to 6:00 PM on weekdays.
+
+Q9: Can Gourmet's Delight accommodate large parties or events?
+A9: Yes, the restaurant has a private dining area that can be reserved for events and parties.
